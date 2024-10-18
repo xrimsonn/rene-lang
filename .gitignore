@@ -1,0 +1,5 @@
+# build directory
+cmake-build-debug/
+
+# jetbrains
+.idea/
